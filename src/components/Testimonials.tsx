@@ -7,18 +7,18 @@ import { Star } from 'lucide-react';
 const testimonials = [
     {
         name: 'Sarah M.',
-        text: 'Absolutely the best salon experience I have ever had. The attention to detail is unmatched.',
-        role: 'Loyal Client',
+        text: 'Helt klart den beste salongopplevelsen jeg noen gang har hatt. Oppmerksomheten på detaljer er uovertruffen.',
+        role: 'Lojal Kunde',
     },
     {
         name: 'Emily R.',
-        text: 'My hair has never looked better. The stylists really listen to what you want.',
-        role: 'First-time Visitor',
+        text: 'Håret mitt har aldri sett bedre ut. Stylistene lytter virkelig til hva du ønsker.',
+        role: 'Førstegangsbesøkende',
     },
     {
         name: 'Jessica T.',
-        text: 'A true sanctuary. The spa treatments are incredibly relaxing and effective.',
-        role: 'Regular',
+        text: 'Et sant fristed. Behandlingene er utrolig avslappende og effektive.',
+        role: 'Fast Kunde',
     },
 ];
 
@@ -27,8 +27,8 @@ export default function Testimonials() {
         <section id="testimonials" className="py-24 bg-white">
             <div className="container mx-auto px-6">
                 <div className="text-center mb-16">
-                    <h2 className="text-4xl font-bold text-foreground mb-4">Client Love</h2>
-                    <p className="text-gray-600">Don&apos;t just take our word for it.</p>
+                    <h2 className="text-4xl font-bold text-foreground mb-4">Hva Våre Kunder Sier</h2>
+                    <p className="text-gray-600">Ikke bare ta vårt ord for det.</p>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
