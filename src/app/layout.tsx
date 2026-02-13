@@ -9,8 +9,8 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "C&M Beauty Salon | Editorial Chic",
-  description: "Experience premium beauty treatments in a chic and relaxing atmosphere.",
+  title: "C&M Beauty Salon | Tidløs Eleganse",
+  description: "Opplev førsteklasses skjønnhetsbehandlinger i en elegant og avslappende atmosfære.",
 };
 
 export default function RootLayout({

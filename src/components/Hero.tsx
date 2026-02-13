@@ -31,11 +31,11 @@ export default function Hero() {
                         EST. 2024 • Sandnes
                     </span>
                     <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight text-foreground mb-6">
-                        Editorial <span className="text-primary italic">Chic</span>
+                        Tidløs <span className="text-primary italic">Eleganse</span>
                     </h1>
                     <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-10 leading-relaxed">
                         Opplev skjønnhetens kunst i omgivelser designet for luksus og avslapning.
-                        Hvor moderne teknikker møter tidløs eleganse.
+                        Hvor moderne teknikker møter personlig velvære.
                     </p>
 
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
